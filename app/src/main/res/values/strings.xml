@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartTrash</string>
+    <string name="location_link"><a href="%1$s">View Location</a></string>
+</resources>
